@@ -2,6 +2,8 @@
 
 This is a weather app that gets you the weather at a particular location
 
+[open link to the weather app](https://johnjegede.github.io/weatherHtml/)
+
 ## How to Use
 
 In the input bar enter the name of the city you want to see the weather then click the search Icon
